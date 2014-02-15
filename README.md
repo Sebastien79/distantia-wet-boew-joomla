@@ -40,6 +40,10 @@ Instruction:
 2 - Importer le fichier modules.sql.zip dans la base de données de votre projet Joomla.
 
 
+
+Contact
+-------------------------------------------------------------------
+
 If you need more help you can contact me at.
 Si vous avez besoin d'aide supplémentaire contactez moi.
 
