@@ -44,7 +44,7 @@ Instruction:
 Contact
 -------------------------------------------------------------------
 
-If you need more help you can contact me at.
+If you need more help you can contact me at.<br>
 Si vous avez besoin d'aide supplémentaire contactez moi.
 
 www.distantia.ca<br>
