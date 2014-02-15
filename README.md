@@ -44,8 +44,8 @@ Instruction:
 Contact
 -------------------------------------------------------------------
 
-If you need more help you can contact me at.<br>
-Si vous avez besoin d'aide supplémentaire contactez moi.
+If you need more help you can contact us.<br>
+Si vous avez besoin d'aide supplémentaire contactez-nous.
 
 www.distantia.ca<br>
 172 rue de la Canipco Gatineau Qc J8P 4B1    
