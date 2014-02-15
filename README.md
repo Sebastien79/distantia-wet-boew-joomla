@@ -18,7 +18,7 @@ Instruction:
 
 If you need more help you can contact me at.
 
-www.distantia.ca
+www.distantia.ca<br>
 172 rue de la Canipco Gatineau Qc J8P 4B1    
 819 893 0860    
 1 877 503 6210    
