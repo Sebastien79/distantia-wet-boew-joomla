@@ -1,4 +1,4 @@
-distantia-wet-boew-joomla - By Sebastien Giroux
+distantia-wet-boew-joomla <br>By Sebastien Giroux
 =========================
 
 Joomla variant for the Web Experience Toolkit (WET)
