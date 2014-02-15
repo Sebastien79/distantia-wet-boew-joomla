@@ -3,7 +3,7 @@ distantia-wet-boew-joomla - By Sebastien Giroux
 
 Joomla variant for the Web Experience Toolkit (WET)
 
-Exemple URL : http://fpcc-cpac.distantia.ca/index.php?lang=fr-FR
+Exemple URL : http://fpcc-cpac.distantia.ca/index.php?lang=en-GB
 
 Tested on Joomla 2.5
 
@@ -11,12 +11,31 @@ Tested on Joomla 2.5
 
 Instruction:
 
-1 - Add all folder to joomla project.
+1 - Add all folder to joomla project root directory.
 
 2 - Import modules.sql.zip into database.
 
+=============================================================================
+Francais
+=============================================================================
+
+Une variant du toolkit Web Experience Toolkit (WET) pour Joomla 
+
+Exemple URL : http://fpcc-cpac.distantia.ca/index.php?lang=fr-FR
+
+Tester avec Joomla 2.5
+
+
+
+Instruction:
+
+1 - Ajouter tous les dossiers au à la racine d'un projet Joomla
+
+2 - Importer le fichier modules.sql.zip dans la base de données de votre projet Joomla.
+
 
 If you need more help you can contact me at.
+Si vous avez besoin d'aide supplémentaire contactez moi.
 
 www.distantia.ca<br>
 172 rue de la Canipco Gatineau Qc J8P 4B1    
