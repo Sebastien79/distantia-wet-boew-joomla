@@ -1,0 +1,349 @@
+@charset "utf-8";
+/*!
+ * From Canada Theme v1.1a / Thème Canada v1.1a
+ * Martin Richer - Interface Design / Conception d'interfaces
+ * Date Modified: / Date de modification : 2011-12-08
+*/
+
+
+
+/* WET 3.0 CSS Changes 
+
+cn changed to gcwu
+
+id="gcwu-content"
+id="gcwu-headlines" 
+id="cn-headlines2"> 
+
+*/
+
+
+
+#gcwu-content h2, #gcwu-headlines h2, #gcwu-priorities h3, #gcwu-didyouknow h3
+{
+color: #567;
+font-weight: bold;
+background:#265 top;color:#FFF;font-size:1.3em;font-weight:700;margin-bottom:5px;margin-left:0;margin-right:0;padding:3px 3px 3px 10px
+}
+
+/*  orginal css for index page template (changed version above - jh)
+
+{
+color: #567;
+font-weight: normal;
+background:#666 url('/comm/theme/css/h-square.gif') no-repeat left top;color:#FFF;font-size:1em;font-weight:700;margin-bottom:5px;margin-left:0;margin-right:0;padding:3px 3px 3px 25px
+}*/
+
+
+
+/* ADDED APRIL 19, 2012 DT */
+a:active img, a:focus img, a:hover img {outline-style:dotted; outline-width:thin}
+
+/*#gcwu-links h2 {background:#666 url('/comm/theme/css/h-square.gif') no-repeat left top;color:#FFF;font-size:1em;font-weight:700;margin-bottom:5px;margin-left:0;margin-right:0;padding:3px 3px 3px 25px}*/
+/* ONE DIV FOR QUICK LINKS/HIGHLIGHTS */
+/*#gcwu-links ul {list-style-image:url('/comm/theme/css/bullet.gif') !important; margin-left:25px !important; }*/
+
+#gcwu-links ul ul{margin-left:23px !important; }
+#gcwu-links li:first-child{padding:4px 0; }
+#gcwu-links li{font-size:1em;padding-bottom:4px; }
+#gcwu-links li li{font-size:100%;padding-bottom:0; }
+
+div#gcwu-headlines ul,div#gcwu-headlines ul li {list-style-image:url('../theme/css/bullet.gif') !important; margin-left:15px !important; }
+
+#gcwu-connect-tile ul, #gcwu-connect-tile li, #gcwu-connect-tile img {display: inline; float: left; padding-right: 10px;}
+/*
+div#gcwu-headlines ul,div#gcwu-headlines ul li{list-style:none!important;margin:0!important;padding:0!important}
+*/
+
+
+
+/* #gcwu-didyouknow h3 {color: #567;font-weight: normal;background:#666 url('/comm/theme/css/h-square.gif') no-repeat left top;color:#FFF;font-size:1em;font-weight:700;margin-bottom:5px;margin-left:0;margin-right:0;padding:3px 3px 3px 25px} */
+#gcwu-didyouknow p {padding:0 10px 0 10px; margin-left:0; margin-right:0;}
+
+
+#gcwu-gcnb-lang{
+    border-left: none;
+}
+
+
+.no-margin{
+    margin: 0px !important;
+}
+
+.content-margin{
+    margin: 0px 0px 0px 30px;
+}
+
+
+
+
+
+
+
+
+
+
+/* THEME FROM AGR.QC.CA */
+
+
+
+@charset "utf-8";
+/* Site-wide styles styles - START */
+/* Headings - START */
+h1 {
+    background:#666;
+    padding:5px;
+    margin-top:6px;
+    color:white;
+    border-bottom:none;
+    border-left:10px solid #CC0000!important;
+}
+/* Headings - END */
+
+/* Top of page links - START */
+div.cn-toppage {
+    background-image:url(/res/aafc-aac3.0.6/images/tphp.gif);
+    background-repeat:no-repeat;
+    background-position: right top;
+    margin-left:12px;
+    margin-bottom:0px;
+    width:auto;
+    padding-top:12px;
+    vertical-align: text-bottom;
+    text-align:right;
+}
+/* Top of page links - END */
+
+/* font-xxsmall and font-xsmall override to font-small size  - START */
+
+.font-xxsmall {
+    font-size: 85% !important;
+}
+
+.font-xsmall {
+    font-size: 85% !important;
+}
+
+/* font-xxsmall and font-xsmall override to font-small size  - END */
+
+/* Callout-box - START */
+div.ac-callout-zebra, div.ac-callout-sidebar {
+    padding:0px;
+    margin-bottom:10px!important;
+}
+div.ac-callout-zebra h1, div.ac-callout-zebra h2, div.ac-callout-zebra h3, div.ac-callout-zebra h4, div.ac-callout-zebra h5, div.ac-callout-zebra h6, div.ac-callout-sidebar h1, div.ac-callout-sidebar h2, div.ac-callout-sidebar h3, div.ac-callout-sidebar h4, div.ac-callout-sidebar h5, div.ac-callout-sidebar h6 {
+    margin:0px!important;
+    background-color:#cccccc;
+    color:#222222;
+    font-size:1.15em;
+    padding:5px;
+}
+div.ac-callout-sidebar {
+    margin:0px;
+    background-color:#eeeeee;
+}
+div.ac-callout-zebra {
+    margin:0px;
+    padding:0px;
+    border:#cccccc solid 1px;
+}
+div.ac-callout-sidebar p, div.ac-callout-sidebar ul {
+    margin:0px;
+    padding:10px;
+}
+div.ac-callout-sidebar img {
+    margin:0px;
+}
+div.ac-callout-sidebar ul, div.ac-callout-zebra ul.wet-boew-zebra {
+    margin-top:0px;
+    margin-bottom:0px;
+    margin-left:0px;
+}
+div.ac-callout-zebra ul {
+    margin-top:10px;
+    margin-bottom:10px;
+    margin-left:0px;
+}
+div.ac-callout-zebra ul li {
+    margin-left:25px;
+}
+div.ac-callout-sidebar ul li {
+    margin-left:15px;
+}
+div.ac-callout-zebra ul.wet-boew-zebra li.list-odd, div.ac-callout-zebra ul.wet-boew-zebra li.list-even {
+    border:0px;
+    margin:0px;
+}
+div.ac-callout-zebra ul.wet-boew-zebra li.list-odd {
+    background-color:#eeeeee;
+}
+div.ac-callout-zebra ul.wet-boew-zebra li.list-even {
+    background-color:#ffffff;
+}
+/* Callout-box - END */
+/* Site-wide styles - END */
+
+/* Section-specific or specialized styles - START */
+/* Home page-specific styles - START */
+/* Rotating features background */
+
+.ac-looking-for {
+    border: 1px solid #CCC;
+    height:auto;
+}
+.ac-ministers {
+    padding: 5px 10px 10px 10px;
+    background-color: #eee;
+}
+.ac-minister-imgbg {
+    background-image: url(/cb/home-accueil/images/gerryritz.jpg);
+    background-repeat: no-repeat;
+    background-position: right;
+}
+.ac-min-state-imgbg {
+    background-image: url(/cb/home-accueil/images/maximebernier.jpg);
+    background-repeat: no-repeat;
+    background-position: right;
+}
+.ac-delinkify {
+    text-decoration: none!important;
+    color:black!important;
+}
+.ac-linkify {
+    text-decoration:underline!important;
+    color:#003399!important;
+}
+.ac-priorities {
+    padding:0px;
+}
+.ac-priorities a  {
+    margin-bottom:0px;
+}
+.ac-priorities a img {
+    margin-top:5px;
+    margin-bottom:-5px;
+}
+.tabs-style-2 .tabs-panel {
+    background:#DDD;
+    color: black;
+}
+.tabs-style-2 .tabs-panel a, .tabs-style-2 .tabs-panel a:visited {
+    background:#DDD;
+    color: black;
+}
+.tabs-style-2 .tabs {
+    background:#eeeeee;
+    color: black;
+}
+#ac-lookfor {
+    border:1px solid #ccc;
+    border-top:0;
+}
+#ac-lookfor-left {
+    float:left;
+    width:50%;
+}
+#ac-lookfor-right {
+    float:right;
+    width:50%;
+}
+.ac-initiatives  {
+    padding-top:5px;
+    padding-right:10px;
+    padding-bottom:0px;
+    padding-left:10px;
+    margin-bottom:0px;
+    margin-top:0px;
+    background-color:#EEEEEE;
+}
+.ac-initiatives ul  {
+    margin-bottom:0px;
+}
+.ac-initiatives li  {
+    margin-bottom:0px;
+}
+.ac-initiatives img  {
+    border: solid 5px #ffffff;
+    padding:0px;
+    margin-right:10px;
+    margin-bottom:10px;
+}
+.ac-initiatives hr  {
+    border: thin #FFF solid;
+    margin-top:0px;
+}
+ul.ac-news {
+    list-style: none outside none !important;
+    margin: 0 !important;
+    padding: 0 !important;}
+
+ul.ac-news li {
+    background: url(../images/news_gradient-150x14.png) repeat-x;
+    padding: 15px !important;
+}
+/* h1 styling for home page subheadings without default h1 margin ajustment */
+.ac-hp-bg {
+    background:#666;
+    padding:5px;
+    color:white;
+    border-bottom:none;
+    border-left:10px solid #CC0000!important;
+}
+/* Home page-specific styles - END */
+
+/* Proactive Disclosure START */
+table.data {
+    width: 98.5%;
+}
+table.data tbody tr {
+    vertical-align: top;
+}
+table.data tbody tr th {
+    font-weight:normal;
+    text-align: left;
+}
+/* Proactive Disclosure END */
+
+/* Specialized utility styles START */
+span.arrow {
+    color: #ffffff;
+    background-image: url(http://www4.agr.gc.ca/res/images/arrow.jpg);
+    background-repeat: no-repeat;
+    margin-top: 8px;
+    padding-left: 13px;
+    padding-right: 13px;
+}
+th.normalText {
+    font-weight: normal;
+}
+/* Specialized utility styles END */
+/* Section-specific or specialized styles - END */
+
+/* Alignment for Printing */
+@media print {
+    .align-right {text-align: right !important;}
+    .align-left {text-align: left !important;}
+    .align-center {text-align: center !important;}
+    .wrap-none {white-space: nowrap;}
+}
+
+.tabs-style-2 .tabs-panel a, .tabs-style-2 .tabs-panel a:visited, .tabs-style-2 .tabs-panel h2, .tabs-style-2 .tabs-panel h3, .tabs-style-2 .tabs-panel h4, .tabs-style-2 .tabs-panel h5, .tabs-style-2 .tabs-panel h6{
+    padding-top: 10px !important;
+}
+
+
+.item-560{
+    display: none !important;
+}
+
+
+
+.margin-top-xlarge-custom {
+    margin-top: 50px !important;
+}
+
+@media (max-width: 768px) {
+    .margin-top-xlarge-custom {
+        margin-top: 0px !important;
+    }
+}

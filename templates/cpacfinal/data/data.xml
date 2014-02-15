@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="utf-8"?>
+<data>
+    <categories>
+        <category id="1" title="Featured"/>
+        <category id="2" title="Articles"/>
+    </categories>
+    <articles>
+        <article id="1" category="2" title="Accueil" alias="article" path="/accueil" description="Description" keywords="Keywords">
+            <![CDATA[<div class="cpac-content-layout" style="border-top-style:solid;border-right-style:solid;border-bottom-style:solid;border-left-style:solid;border-top-width:1px;border-right-width:1px;border-bottom-width:1px;border-left-width:1px;border-top-color:#CCCCCC;border-right-color:#CCCCCC;border-bottom-color:#CCCCCC;border-left-color:#CCCCCC; color: #303A4F; ">
+    <div class="cpac-content-layout-row">
+    <div class="cpac-layout-cell" style="color: #303A4F; padding-right: 10px;padding-left: 10px; width:67%" >
+        <div style="font-size:0"><br></div>
+    </div><div class="cpac-layout-cell" style="color: #303A4F; padding-right: 10px;padding-left: 10px; width:33%" >
+        <h2 style="color:#FFFFFF;"><br></h2>
+    </div>
+    </div>
+</div>
+<div class="cpac-content-layout">
+    <div class="cpac-content-layout-row">
+    <div class="cpac-layout-cell" style="border-right-style:Dotted;border-right-width:1px;border-right-color:#CCCCCC; padding-right: 20px;padding-left: 20px; width:33%" >
+        <h3>What's Nouveau?</h3>
+        <p><img width="100" height="100" alt="" src="http://www.82965be8-d188-4ff4-8bc3-aa22f0f9836d-image.com/.webarchive/001-2.png" style="float: left; margin-right: 20px;" class=""></p>
+        <p style="font-weight: bold;">Vel odio nec.</p>
+        <p>Netus nibh posuere nec ut egestas lacus semper libero pellentesque.</p>
+        <br>
+        <p><img width="100" height="100" alt="" src="http://www.82965be8-d188-4ff4-8bc3-aa22f0f9836d-image.com/.webarchive/002-2.png" style="float: left; margin-right: 20px;"></p>
+        <p style="font-weight: bold;">Volutpat.</p>
+        <p>Facilisis gravida ut ut ante dolor urna praesent enim malesuada consequat nunc.</p>
+        <br>
+        <p><img width="100" height="100" alt="" src="http://www.82965be8-d188-4ff4-8bc3-aa22f0f9836d-image.com/.webarchive/003-2.png" style="float: left; margin-right: 20px;"></p>
+        <p style="font-weight: bold;">Praesent eu.</p>
+        <p>Ac imperdiet faucibus maecenas lacus elementum nunc posuere faucibus molestie.</p>
+        <br>
+    </div><div class="cpac-layout-cell" style="border-right-style:Dotted;border-right-width:1px;border-right-color:#CCCCCC; padding-right: 20px;padding-left: 20px; width:34%" >
+        <h3>Our Mission</h3>
+        <p><br></p>
+        <p>Lacus ultrices orci at vestibulum ac inceptos nonummy. Posuere sagittis cras sed magna eleifend aliquam pulvinar eu euismod accumsan eros libero condimentum justo at. Euismod imperdiet maecenas. Nulla leo ac at fermentum habitant donec augue eros phasellus nec. Nostra viverra tristique mi nunc fusce justo dolor ut lobortis ac. Felis posuere curabitur nulla vestibulum nec.</p>
+        <p><a href="#" class="cpac-button">Learn more</a></p>
+    </div><div class="cpac-layout-cell" style="padding-right: 20px;padding-left: 20px; width:33%" >
+        <h3>Our Services</h3>
+        <ul>
+        <li><a href="#">Management Consulting</a></li>
+        <li><a href="#">A tellus lectus nisi faucibus.</a></li>
+        <li><a href="#">Market Assessment</a></li>
+        <li><a href="#">Program Management</a></li>
+        <li><a href="#">Vitae id tristique faucibus.</a></li>
+        <li><a href="#">Change Management</a></li>
+        <li><a href="#">Information Technology</a></li>
+        <li><a href="#">Strategic Communications</a></li>
+        </ul>
+        <br>
+        <br>
+        <p><a href="#" class="cpac-button">Learn more</a></p>
+    </div>
+    </div>
+</div>
+<div class="cpac-content-layout-wrapper" style="margin-top: 20px;">
+<div class="cpac-content-layout">
+    <div class="cpac-content-layout-row">
+    <div class="cpac-layout-cell" style="padding: 20px; width:33%" >
+        <h3>Follow Us</h3>
+        <p><img width="64" height="64" alt="" src="http://www.82965be8-d188-4ff4-8bc3-aa22f0f9836d-image.com/.webarchive/1306145462_rss.png"><img width="64" height="64" alt="" src="http://www.82965be8-d188-4ff4-8bc3-aa22f0f9836d-image.com/.webarchive/1306145457_twitter.png"><img width="64" height="64" alt="" src="http://www.82965be8-d188-4ff4-8bc3-aa22f0f9836d-image.com/.webarchive/1306145460_facebook.png"><img width="64" height="64" alt="" src="http://www.82965be8-d188-4ff4-8bc3-aa22f0f9836d-image.com/.webarchive/1306172407_delicious.png"></p>
+    </div><div class="cpac-layout-cell" style="color: #191E29; background: #CCCCCC; padding: 20px; width:67%" >
+        <h4>Our Clients Say:</h4>
+        <p style="font-style:italic;">Vestibulum metus ante a egestas turpis luctus. Pede morbi platea et sed sem pretium felis elementum ante vestibulum. Neque elit vestibulum imperdiet sociis pede ligula mauris. Eu dolor congue nisl vitae vitae. Luctus suscipit ut malesuada felis pretium eu consequat facilisis. Vestibulum ac elit posuere ipsum lorem venenatis accumsan. Convallis phasellus accumsan orci tellus. Dolor libero turpis varius sem pretium phasellus. Rhoncus praesent nulla accumsan id cursus. egestas sit et.</p>
+    </div>
+    </div>
+</div>
+</div>
+<div class="cpac-content-layout">
+    <div class="cpac-content-layout-row">
+    <div class="cpac-layout-cell" style="width:100%" >
+        <img width="118" height="56" alt="" src="http://www.82965be8-d188-4ff4-8bc3-aa22f0f9836d-image.com/.webarchive/bottom-2.png" style="float: right; margin: 0px;">
+    </div>
+    </div>
+</div>
+]]>
+        </article>
+        <article id="2" category="2" title="Nouvelle Page" alias="article-1" path="/accueil/nouvelle-page" description="" keywords="">
+            <![CDATA[<p><br></p>]]>
+        </article>
+        <article id="3" category="2" title="Nouvelle Page" alias="article-2" path="/accueil/nouvelle-page/nouvelle-page" description="" keywords="">
+            <![CDATA[<p><br/></p>]]>
+        </article>
+        <article id="4" category="2" title="Nouvelle Page 2" alias="article-3" path="/accueil/nouvelle-page-2" description="" keywords="">
+            <![CDATA[<p><br/></p>]]>
+        </article>
+        <article id="5" category="2" title="Contacts" alias="article-4" path="/contacts" description="Description" keywords="Keywords">
+            <![CDATA[<div class="cpac-content-layout">
+    <div class="cpac-content-layout-row">
+    <div class="cpac-layout-cell" style="padding-right: 10px;padding-left: 10px; width:100%" >
+        <p><img width="269" height="269" alt="" src="images/template-content/005-2.png" style="float:left;margin-right:10px;"></p><p>Augue leo amet orci dignissim dolor condimentum nullam. Sagittis magna phasellus fringilla id curabitur et senectus urna ac vel eu euismod praesent vivamus ipsum non. </p><p>Suspendisse viverra lacus rhoncus arcu ac posuere semper aenean.  Ante felis  nec sagittis id. Quam nec ipsum nisi praesent pede condimentum litora felis ligula. Amet nunc  convallis pellentesque felis nisl.</p><p style="font-weight:bold;">Volutpat. </p><p>Molestie a quis amet mus sed. <br>  Principal Ville, Country 12345-6789</p><p>Venenatis  posuere.<br>  Nunc in ac augue. </p><p>A. <a href="#">http://www.domain.com<br></a>A. <a href="#">email@domain.com</a></p>
+    </div>
+    </div>
+</div>
+]]>
+        </article>
+        <article id="6" category="2" title="Nouvelle Page" alias="article-5" path="/nouvelle-page" description="" keywords="">
+            <![CDATA[<div class="cpac-content-layout">
+    <div class="cpac-content-layout-row">
+    <div class="cpac-layout-cell" style="padding: 10px; width:100%" >
+        <p>Testt 1-2 , 1-2</p>
+    </div>
+    </div>
+</div>
+]]>
+        </article>
+    </articles>
+    <menus>
+        <menu id="1" name="ct-horizontal-menu" title="Content / Horizontal Menu"/>
+        <menu id="2" name="ct-vertical-menu" title="Content / Vertical Menu"/>
+        <menu id="3" name="ct-special-menu" title="Content / Special Menu"/>
+    </menus>
+    <menuitems>
+        <menuitem id="1" menu="ct-horizontal-menu" title="Accueil" alias="ct-menu-item-1" path="/accueil" menutype="hmenu" type="single-article" article="1" showTitle="no" category="1" default="1"/>
+        <menuitem id="2" menu="ct-vertical-menu" title="Accueil" alias="ct-menu-item-2" path="/accueil" menutype="vmenu" type="single-article" article="1" showTitle="no" category="1"/>
+        <menuitem id="3" menu="ct-horizontal-menu" title="Nouvelle Page" alias="ct-menu-item-3" path="/accueil/nouvelle-page" menutype="hmenu" type="single-article" parent="1" article="2" showTitle="yes" category="1"/>
+        <menuitem id="4" menu="ct-vertical-menu" title="Nouvelle Page" alias="ct-menu-item-4" path="/accueil/nouvelle-page" menutype="vmenu" type="single-article" parent="2" article="2" showTitle="yes" category="1"/>
+        <menuitem id="5" menu="ct-horizontal-menu" title="Nouvelle Page" alias="ct-menu-item-5" path="/accueil/nouvelle-page/nouvelle-page" menutype="hmenu" type="single-article" parent="3" article="3" showTitle="yes" category="1"/>
+        <menuitem id="6" menu="ct-vertical-menu" title="Nouvelle Page" alias="ct-menu-item-6" path="/accueil/nouvelle-page/nouvelle-page" menutype="vmenu" type="single-article" parent="4" article="3" showTitle="yes" category="1"/>
+        <menuitem id="7" menu="ct-horizontal-menu" title="Nouvelle Page 2" alias="ct-menu-item-7" path="/accueil/nouvelle-page-2" menutype="hmenu" type="single-article" parent="1" article="4" showTitle="yes" category="1"/>
+        <menuitem id="8" menu="ct-vertical-menu" title="Nouvelle Page 2" alias="ct-menu-item-8" path="/accueil/nouvelle-page-2" menutype="vmenu" type="single-article" parent="2" article="4" showTitle="yes" category="1"/>
+        <menuitem id="9" menu="ct-horizontal-menu" title="Contacts" alias="ct-menu-item-9" path="/contacts" menutype="hmenu" type="single-article" article="5" showTitle="yes" category="1"/>
+        <menuitem id="10" menu="ct-vertical-menu" title="Contacts" alias="ct-menu-item-10" path="/contacts" menutype="vmenu" type="single-article" article="5" showTitle="yes" category="1"/>
+        <menuitem id="11" menu="ct-horizontal-menu" title="Nouvelle Page" alias="ct-menu-item-11" path="/nouvelle-page" menutype="hmenu" type="single-article" article="6" showTitle="yes" category="1"/>
+        <menuitem id="12" menu="ct-vertical-menu" title="Nouvelle Page" alias="ct-menu-item-12" path="/nouvelle-page" menutype="vmenu" type="single-article" article="6" showTitle="yes" category="1"/>
+        <menuitem id="13" menu="ct-special-menu" title="Special Blog Page" alias="ct-menu-item-13" menutype="menu" type="category-blog-layout" category="1"/>
+        <menuitem id="14" menu="ct-special-menu" title="Special Single Page" alias="ct-menu-item-14" menutype="menu" type="single-article" showTitle="yes" category="1"/>
+    </menuitems>
+    <modules>
+        <module id="1" title="Content / Horizontal Menu" showTitle="true" position="user3" type="menu" menu="ct-horizontal-menu"/>
+        <module id="2" title="Vertical Menu" showTitle="true" position="left" style="cpac-vmenu" menu="ct-vertical-menu" type="menu"/>
+        <module id="3" title="Nouveau Bloc" showTitle="true" position="left" type="custom">
+            <![CDATA[<p>Erat magna sem odio et.</p>
+<p>Et sodales dui vitae et nam tellus justo vitae per sem. Phasellus porttitor turpis duis pede aliquam nulla malesuada est vel netus accumsan in ligula amet quis auctor.</p>]]>
+        </module>
+        <module id="4" title="Nouveau Bloc 2" showTitle="true" position="left" type="custom">
+            <![CDATA[<p><br></p>]]>
+        </module>
+        <module id="5" title="Categories" showTitle="true" position="right" type="custom">
+            <![CDATA[<div>
+  <p>Lorem ipsum dolor sit amet. Nam sit amet sem. Mauris a ante.</p>
+  <ul>
+    <li>
+      <a href="#" title="All News">All News</a> (50)
+    </li>
+    <li>
+      <a href="#" title="Best of the Year">Best of the Year</a> (4)
+    </li>
+    <li>
+      <a href="#" title="Hyperlink">Hyperlink</a> (24)
+    </li>
+    <li>
+      <a href="#" title="Visited link" class="visited">Visited link</a> (17)
+    </li>
+    <li>
+      <a href="#" title="Hovered link" class="hover">Hovered link</a> (6)
+    </li>
+  </ul>
+</div>]]>
+        </module>
+        <module id="6" title="Blogroll" showTitle="true" position="right" type="custom">
+            <![CDATA[<div>
+  <ul>
+    <li>
+      <a href="#">My first blog</a>
+    </li>
+    <li>
+      <a href="#">Who will prevail?</a>
+    </li>
+    <li>
+      <a href="#">Stay positive!</a>
+    </li>
+    <li>
+      <a href="#">Oil still going up</a>
+    </li>
+    <li>
+      <a href="#">Gripes and Grins</a>
+    </li>
+    <li>
+      <a href="#">2012 Olympics</a>
+    </li>
+    <li>
+      <a href="#">How to SEO</a>
+    </li>
+    <li>
+      <a href="#">On Global Warming</a>
+    </li>
+    <li>
+      <a href="#">Can you guess?</a>
+    </li>
+  </ul>
+</div>]]>
+        </module>
+        <module id="7" title="Archives" showTitle="true" position="right" type="custom">
+            <![CDATA[<div>
+  <ul>
+    <li>
+      <a href="#" title="November 2008">November 2008</a>
+    </li>
+    <li>
+      <a href="#" title="October 2008">October 2008</a>
+    </li>
+    <li>
+      <a href="#" title="September 2008">September 2008</a>
+    </li>
+    <li>
+      <a href="#" title="June 2008">June 2008</a>
+    </li>
+  </ul>
+</div>]]>
+        </module>
+        <module id="8" title="Footer" showTitle="false" position="copyright" type="custom">
+            <![CDATA[<div class="cpac-content-layout">
+    <div class="cpac-content-layout-row">
+    <div class="cpac-layout-cell layout-item-0" style="width: 100%">
+        
+        <p><br></p>
+    </div>
+    </div>
+</div>]]>
+        </module>
+    </modules>
+    <parameters>
+        <parameter id="1" name="siteTitle" value="Conseil des produits agricolesdu Canada"/>
+    </parameters>
+</data>
