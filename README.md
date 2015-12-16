@@ -8,7 +8,7 @@ English
 
 Joomla variant for the Web Experience Toolkit (WET)
 
-Exemple URL : http://fpcc-cpac.distantia.ca/index.php?lang=en-GB
+Exemple URL : http://www.fpcc-cpac.gc.ca/index.php/en-GB
 
 Tested on Joomla 2.5
 
@@ -27,7 +27,7 @@ Francais
 
 Une variant du toolkit Web Experience Toolkit (WET) pour Joomla 
 
-Exemple URL : http://fpcc-cpac.distantia.ca/index.php?lang=fr-FR
+Exemple URL : http://www.fpcc-cpac.gc.ca/index.php/fr-FR
 
 Tester avec Joomla 2.5
 
